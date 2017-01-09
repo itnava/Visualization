@@ -1,2 +1,2 @@
 # Visualization
-Galaxy distributions
+<a href = "hammer-eq-col.pdf"> Galaxy distributions
